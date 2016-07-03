@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="name">
+
+        <item>หัวข้อหลักที่ 1</item>
+        <item>หัวข้อหลักที่ 2</item>
+        <item>หัวข้อหลักที่ 3</item>
+        <item>หัวข้อหลักที่ 4</item>
+        <item>หัวข้อหลักที่ 5</item>
+        <item>หัวข้อหลักที่ 6</item>
+        <item>หัวข้อหลักที่ 7</item>
+        <item>หัวข้อหลักที่ 8</item>
+        <item>หัวข้อหลักที่ 9</item>
+        <item>หัวข้อหลักที่ 10</item>
+        <item>หัวข้อหลักที่ 11</item>
+        <item>หัวข้อหลักที่ 12</item>
+        <item>หัวข้อหลักที่ 13</item>
+        <item>หัวข้อหลักที่ 14</item>
+        <item>หัวข้อหลักที่ 15</item>
+        <item>หัวข้อหลักที่ 16</item>
+        <item>หัวข้อหลักที่ 17</item>
+        <item>หัวข้อหลักที่ 18</item>
+        <item>หัวข้อหลักที่ 19</item>
+        <item>หัวข้อหลักที่ 20</item>
+
+    </string-array>
+
+</resources>
