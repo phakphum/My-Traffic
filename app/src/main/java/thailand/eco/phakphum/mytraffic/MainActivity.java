@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 mediaPlayer.start();
 
                 //Web View
-                // Intent ทำหน้าที่ Link จาก Activity 1 ไป Activity 2
+                // Intent ทำหน้าที่ Link จาก Activity 1 ไป Activity 2 (ในที่นี้คือ web view จึงใช้ ACTION_VIEW
                 Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse("https://youtu.be/7_z2Xgy4aPE"));
                 startActivity(intent);
