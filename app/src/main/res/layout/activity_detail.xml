@@ -21,8 +21,8 @@
         android:textColor="@color/text" />
 
     <ImageView
-        android:layout_width="200dp"
-        android:layout_height="200dp"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
         android:id="@+id/imageView2"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/textView4"
@@ -34,7 +34,8 @@
         android:text="Back"
         android:id="@+id/button2"
         android:layout_centerHorizontal="true"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:onClick="clickBack" />
 
     <ScrollView
         android:layout_width="match_parent"
